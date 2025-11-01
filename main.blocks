@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_gesture_event" id="daM-YT[qFgn4j7ZG(c!w" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="jInD@N7W6,}a,|JC/K!:"><field name="LEDS">`
+        . . # # # 
+        . . # # . 
+        . # . . . 
+        . . # . # 
+        . . . # .
+        `</field><next><block type="device_print_message" id="M{}!onQo@2F!x[@E-,1="><value name="text"><shadow type="text" id="`EGGa=!~Aj+R[t=]/^y|"><field name="TEXT">Merhaba! mhmt alp</field></shadow><block type="text_join" id="E#@OV8(LPM8;h#sgTyAB"><mutation items="4"></mutation><value name="ADD0"><shadow type="text" id="|`Yi_4ncS}YJ4E0~?Ga-"><field name="TEXT">Merhaba</field></shadow></value><value name="ADD1"><shadow type="text" id="mGzSY:N?Xgko**7sL(pZ"><field name="TEXT">isim </field></shadow></value><value name="ADD2"><shadow type="text" id="v5AarJ@=:S,`ch{t@[bx"><field name="TEXT">isim</field></shadow></value><value name="ADD3"><shadow type="text" id="PGqy0Og;ehx0i#TRza4S"><field name="TEXT">soy ad</field></shadow></value></block></value><next><block type="device_clear_display" id="B=^oh=k,bDawuH=Dd)=j"></block></next></block></next></block></statement></block></xml>
